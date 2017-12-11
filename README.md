@@ -7,11 +7,15 @@ Below are the user stories
 ```
 As browser users
 So that we can see our favourite pages
-We want it to show a list of links
+We want it to show a list of links on the homepage
 
 As browser users
-So that we can grow our list of favourite pages
-We want to be able to add new links
+So we can find the links quickly
+We want to see the links in descending chronological order
+
+As browser users
+So that we can save our favourite pages
+We want to be able to add the site's address and title
 
 As browser users
 So that we know what the links are
